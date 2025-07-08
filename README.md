@@ -38,14 +38,21 @@
 
 ## 📊 GitHub 통계
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gill010147&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill010147&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<div align='center'>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill010147&layout=donut&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="38%" />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gill010147&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="56%" />
+</a>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gill010147&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
+<br>
+<br>
 
 ## 📫 연락처
 
