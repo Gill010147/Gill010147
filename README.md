@@ -51,13 +51,16 @@
 
 ## 📫 연락처
 
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://your-blog.com)](https://your-blog.com)
+<div align="right">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ryuchaehyun)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@cielo_g)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:lch010201@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chae_.vly)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/yourusername)
 
 </div>
+
 
 <div align="center">
   
