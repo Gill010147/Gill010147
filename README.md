@@ -36,6 +36,27 @@
 ⚡ **코드 리팩토링**을 통해 더 나은 코드를 추구하고 트러블 슈팅을 좋아하는 개발자입니다   
 📫 qudrlf0104@gmail.com
 
+
+## 🚀 프로젝트 포트폴리오 (Project Portfolio)
+| **SQL 학습** | 대화형 SQL 문제 풀이 시스템<br>Oracle & MySQL 멀티 DB 지원 | `DBeaver` `Oracle` `MySQL` `ubuntu` `MobaXterm` | 2024.07 - 진행중 | [GitHub](https://github.com/Gill010147/sql-exam-lab) |
+
+<!--
+| 프로젝트명 | 설명 | 주요 기술 | 기간 | 링크 |
+|-----------|------|----------|------|------|
+| **Spring Boot RESTful API 서버** | 사용자 관리 시스템 구축<br>JWT 인증 및 권한 관리 구현 | `Spring Boot` `Spring Security` `JWT` `MySQL` | 2024.01 - 2024.02 | [GitHub](https://github.com/Gill010147/api-server) \| [Demo](https://api-demo.com) |
+| **마이크로서비스 아키텍처 구현** | Docker 컨테이너 기반 MSA 설계<br>API Gateway 및 서비스 디스커버리 적용 | `Spring Boot` `Docker` `Kubernetes` `Redis` | 2024.03 - 2024.04 | [GitHub](https://github.com/Gill010147/microservices) \| [Docs](https://docs.example.com) |
+| **실시간 채팅 애플리케이션** | WebSocket을 활용한 실시간 메시징<br>Redis 기반 세션 관리 | `Spring Boot` `WebSocket` `Redis` `MySQL` | 2024.05 - 2024.06 | [GitHub](https://github.com/Gill010147/chat-app) \| [Live](https://chat-app.com) |
+| **SQL 학습 플랫폼** | 대화형 SQL 문제 풀이 시스템<br>Oracle & MySQL 멀티 DB 지원 | `Spring Boot` `Oracle` `MySQL` `JPA` | 2024.07 - 진행중 | [GitHub](https://github.com/Gill010147/sql-exam-lab) |
+
+### 💡 진행 예정 프로젝트
+
+- **클라우드 네이티브 애플리케이션** (AWS ECS, RDS 활용)
+- **대용량 데이터 처리 시스템** (Apache Kafka, Elasticsearch)
+- **CI/CD 파이프라인 구축** (Jenkins, GitHub Actions)
+-->
+
+
+
 ## 📊 GitHub 통계
 
 
