@@ -50,6 +50,7 @@
 |-----------|------|----------|------|------|
 | **SQL 학습** | 대화형 SQL 문제 풀이 시스템<br>Oracle & MySQL 멀티 DB 지원 | `DBeaver` `Oracle` `MySQL` `ubuntu` `MobaXterm` | 2024.07 - 진행중 | [GitHub](https://github.com/Gill010147/sql_exam_lab/tree/main) |
 | **요아정 가격 칼로리 계산 프로그램** | 요거트 아이스크림 브랜드 주문 콘솔 애플리케이션<br>상품 조회, 장바구니, 주문, 가격/칼로리 계산 | `Java` `Maven` `Lombok` `MVC패턴` | 2024.XX - 2024.XX | [GitHub](https://github.com/Gill010147/Mini_Team_Project_Github) |
+| **DB Partitioning 학습** | MovieLens 620만건 영화 데이터셋으로 쿼리 조회 성능 테스트<br> Partitioning의 이해와 성능 비교 측정 테스트 | 'DBevaer' 'ubuntu' 'mysqlslap' | 2025.07.10~2025.07.11 | [Github](https://github.com/dldydgns/PartitioningDB) |
 
 
 <!--
