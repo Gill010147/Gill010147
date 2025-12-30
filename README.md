@@ -107,7 +107,9 @@ I'm
 
 | 프로젝트 | 이미지 | 설명 | 링크 |
 |----------|------|-----------|------|
+| **IPiece** | <img width="796" height="447" alt="image" src="https://github.com/user-attachments/assets/eac4aeee-78d6-4310-be47-f7cf12e76221" loading="lazy" alt="IPiece 썸네일"/> | Ipiece STO 프로젝트, 블록체인·AWS·온프레미스 하이브리드 클라우드 기반 고가용성 시스템을 구축한 우리 fisa 최종 프로젝트 | [GitHub](https://github.com/Woori-FISA-Go)  |
 | **ELK & EFK** | <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/d8e2b752-b9c5-4e2d-b290-68195da9e1e9" loading="lazy" alt="ELK vs EFK 썸네일"/> | Elasticsearch 기반 ELK·EFK 스택을 직접 구축·비교하여 동작 원리와 성능 차이를 분석한 프로젝트 | [GitHub](https://github.com/Gill010147/elk_efk_tech_seminar)  |
+| **PlayMatch** | <img width="806" height="444" alt="image" src="https://github.com/user-attachments/assets/ac9e2d85-4aa2-4cca-abe7-a8a4ce16d196" loading="lazy" alt="PlayMatch 썸네일"/> | Spring Boot & React 기반 축구/풋살 매칭 웹 플랫폼. 팀프로젝트(2인 / 백엔드 담당) 계층형 아키텍처 설계, 사용자 매칭 알고리즘 및 STOMP와 Redis 메시지 브로커 기반 실시간 채팅 기능 개발 | [GitHub](https://github.com/Gill010147/PlayMatch)  |
 | **PartitioningDB**| <img width="1024" height="576" alt="1757663583090" src="https://github.com/user-attachments/assets/b4e0c6fa-aff4-466c-9425-b639aca65d3f" />  | 대용량 데이터를 파티셔닝 기법으로 분할하여 조회 성능을 비교하고, 실행 계획 분석을 통해 최적화 방안을 탐구한 실험 프로젝트 | [GitHub](https://github.com/Gill010147/PartitioningDB.git)  |
 
 
@@ -146,7 +148,7 @@ I'm
 
 ### 🌟 Experience 🌟
 - 2020.03 ~ 2026.02
-- 2025.07 ~  우리FIS Academy 클라우드 엔지니어링 5기
+- 2025.07 ~ 2025.12 우리FIS Academy 클라우드 엔지니어링 5기
 
 
 <div align="center">
