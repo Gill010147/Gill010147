@@ -152,22 +152,24 @@ I'm Byeonggil Hwang - Backend & Cloud Engineer
 
 ## 📊 GitHub 통계
 
-<div align='center'>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill010147&layout=donut&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="38%" />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gill010147&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="56%" />
-</a>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gill010147&theme=default&hide_border=true&background=ffffff&stroke=DA5B0B&ring=DA5B0B&fire=DA5B0B&currStreakLabel=DA5B0B)
 
 </div>
+
+
+
+
+
 
 ---
 
 ### 🌟 Experience
 
-- 📖 **2020.03 ~ 2026.02** | 대학교 재학
+- 📖 **2020.03 ~ 2026.02** | 건국대학교 글로컬캠퍼스 소프트웨어전공 졸업예
 - 💼 **2025.07 ~ 2025.12** | 우리FIS Academy 클라우드 엔지니어링 5기
 
 ---
