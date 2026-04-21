@@ -139,6 +139,7 @@ I'm Byeonggil Hwang - Backend & Cloud Engineer
 ### 🏆 자격증
 
 🏅 **정보처리기사** (2025)  
+🏅 **AWS Certified Solutions Architect - Associate** (2026)
 🏅 **SQLD** (SQL Developer)  
 🏅 **무인멀티콥터 3종**  
 
